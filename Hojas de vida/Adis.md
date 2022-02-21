@@ -37,7 +37,7 @@ Soy una persona responsable, comprometida con mis deberes, abierta a escuchar  a
  INSTITUCIÓN EDUCATIVA DISTRITAL Salvador Entregas > COLEGIO
  
  ---
- _
+ 
 
  ### REFERENCIAS PERSONALES Y FAMILIARES 
 
