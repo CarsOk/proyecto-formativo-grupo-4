@@ -30,9 +30,7 @@ ilustraci%C3%B3n-de-imagen-de-perfil-mujer-vector.jpg?ver=6" width="200" height=
 
 </center>
 
-Soy una persona responsable, comprometida con mis deberes, abierta a escuchar  asesosia,
- dispuesta a aprender mas acerca de mis estudios, contribuyo a ayudar, soy solidaria con las 
- personas que me rodean y me gusta realizar mis compromisos con eficiencia y eficacia 
+Soy una persona responsable, comprometida con mis deberes, abierta a escuchar  asesosia,dispuesta a aprender mas acerca de mis estudios, contribuyo a ayudar, soy solidaria con las personas que me rodean y me gusta realizar mis compromisos con eficiencia y eficacia 
 
  ### FORMACIÓN ACADEMICA
 
@@ -40,4 +38,20 @@ Soy una persona responsable, comprometida con mis deberes, abierta a escuchar  a
 
  ---
 
- ### REFERE
+ ### REFERENCIAS PERSONALES Y FAMILIARES
+
+ >MERENCIANA JUDITH GÓMEZ VENERA - AUX ADMINISTRATIVO
+
+Cargo: Directora 
+
+Empresa: Fundación Semillas de Grandeza
+
+Telefono: 3145531285
+
+ ---
+
+ >JUAN CARLOS ORTIZ PATIÑO 
+
+Cargo: Chofer
+
+Telefono: 3004624088
