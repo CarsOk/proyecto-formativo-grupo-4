@@ -34,7 +34,7 @@ Soy una persona responsable, comprometida con mis deberes, abierta a escuchar  a
 
  ### FORMACIÓN ACADEMICA
 
- INSTITUCIÓN EDUCATIVA DISTRITAL Salvador Entregas
+ INSTITUCIÓN EDUCATIVA DISTRITAL Salvador Entregas > COLEGIO
 
  ---
 
