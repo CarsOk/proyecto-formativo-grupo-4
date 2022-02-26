@@ -1,4 +1,4 @@
-        Barranquilla /Atlántico, 24-02-2022
+                            Barranquilla /Atlántico, 24-02-2022
 Merenciana Gómez Venera
 Director(a) de la Fundación Semillas de Grandeza
 
@@ -16,6 +16,32 @@ Por todo lo expuesto, le reiteramos nuestra solicitud de autorización, agradeci
 Sin más a que referirnos y en espera de una pronta y favorable respuesta a esta solicitud, nos despedimos.
 
 
+Atentamente,
+
+<img src="FIRMAADIS.jpg" width="100" height="50" />                                                                       
+_______________________________                                              
+Adis Ortiz G                                                    
+T.I. 1.043.122.335                                               
+Aprendiz SENA	                                  
 
 
 
+<img src="FIRMAORLANDO.jpg" width="100" height="50" />     
+______________________________
+Orlando Julio L   
+C.C. 1.004.275.470
+Aprendiz SENA
+
+
+<img src="FIRMAADRIAN.jpg" width="100" height="50" />     
+__________________________________                
+Adrián Contreras D                                
+C.C. 1.048.205.387                                                  
+Aprendiz SENA    
+
+
+<img src="FIRMAALFREDO.jpg" width="100" height="50" />     
+__________________________________
+Alfredo Escalante O 
+C.C  1.048.220.121                               
+Aprendiz SENA
