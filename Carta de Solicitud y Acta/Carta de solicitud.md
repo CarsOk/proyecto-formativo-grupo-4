@@ -18,7 +18,7 @@ Sin más a que referirnos y en espera de una pronta y favorable respuesta a esta
 
 Atentamente,
 
-<img src="FIRMAADIS.jpg" width="100" height="50" />                                                                       
+<img src="FIRMAADIS.jpg" width="100" height="40" />                                                                       
 _______________________________                                              
 Adis Ortiz G                                                    
 T.I. 1.043.122.335                                               
@@ -26,21 +26,21 @@ Aprendiz SENA
 
 
 
-<img src="FIRMAORLANDO.jpg" width="100" height="50" />     
+<img src="FIRMAORLANDO.jpg" width="100" height="40" />     
 ______________________________
 Orlando Julio L   
 C.C. 1.004.275.470
 Aprendiz SENA
 
 
-<img src="FIRMAADRIAN.jpg" width="100" height="50" />     
+<img src="FIRMAADRIAN.jpg" width="100" height="40" />     
 __________________________________                
 Adrián Contreras D                                
 C.C. 1.048.205.387                                                  
 Aprendiz SENA    
 
 
-<img src="FIRMAALFREDO.jpg" width="100" height="50" />     
+<img src="FIRMAALFREDO.jpg" width="100" height="40" />     
 __________________________________
 Alfredo Escalante O 
 C.C  1.048.220.121                               
