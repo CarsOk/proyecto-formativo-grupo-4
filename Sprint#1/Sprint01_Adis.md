@@ -86,7 +86,21 @@ FinAlgoritmo
 
 # Ejercicio 3. CICLO MIENTRAS
 
-> 
+> Realizar un algoritmo que imprima los 25 primeros terminos de la serie (11, 22, 33, 44, 55 ....)}
+
+Algoritmo
+ a=0
+
+mientras a≠25 hacer
+
+a=a+1
+
+Escribir a a
+
+Fin mientras
+
+Fin 
+
 
 # Ejercicio 4. CICLO REPETIR
 
