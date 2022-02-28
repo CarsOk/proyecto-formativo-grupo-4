@@ -205,4 +205,68 @@ Escribir"El promedio de gramos que comen los perros son ",promgramos,"gramos"
 
 # Ejercicio 5. Selector Multiple
 
->  
+>Determinar el nombre correspondiente a un número de mes y además la estación a la que pertenece
+considerando 3 meres por estación.
+
+Algoritmo
+
+Escribir"Ingrese el numero de mes" 
+
+Leer nm
+
+Segun nm hacer
+
+1:
+
+Escribir"El mes es enero y la estación es verano"
+
+2:
+
+Escribir"El mes es febrero y la estación es verano"
+
+3:
+
+Escribir"El mes es marzo y la estación es verano"
+
+4:
+
+Escribir"El mes es abril y la estación es otoño"
+
+5:
+
+Escribir"El mes es mayo y la estación es otoño"
+
+6:
+
+Escribir"El mes es junio y la estación es otoño"
+
+7:
+
+Escribir"El mes es julio y la estación es invierno"
+
+8:
+
+Escribir"El mes es agosto y la estación es invierno"
+
+9:
+
+Escribir"El mes es septiembre y la estación es invierno"
+
+10:
+
+Escribir"El mes es octubre y la estación es primavera"
+
+11:
+
+Escribir"El mes es noviembre y la estación es primavera"
+
+12:
+
+Escribir"El mes es diciembre y la estación es primavera"
+
+De otro modo:
+Escribir"El número es erroneo, ingrese el numero correcto"
+
+
+
+
