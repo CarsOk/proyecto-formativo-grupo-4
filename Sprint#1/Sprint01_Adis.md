@@ -267,6 +267,7 @@ Escribir"El mes es diciembre y la estación es primavera"
 De otro modo:
 Escribir"El número es erroneo, ingrese el numero correcto"
 
-
+Finsegun
+FinAlgoritmo
 
 
