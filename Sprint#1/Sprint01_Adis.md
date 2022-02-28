@@ -56,7 +56,33 @@ FinAlgoritmo
 
 # Ejercicio 2. CICLO PARA
 
-> 
+>Una compañía tiene una fórmula poco común para calcular el sueldo de sus empleados. El sueldo semanal para un empleado es igual a:
+
+$ 100+ $(edad del empleado) + ($ 1+ 2+ 3+...+ años en la compañía)
+
+Así, si un empleado de 37 años de edad tiene una antigüedad de seis años, ganaría el sueldo semanal de $ 158, ya que es la suma de 100 + 37 (edad) + 21, en donde 21 es la suma de 1+2+3+4+5+6. Escriba un algoritmo para calcular el pago quincenal de un empleado, recibiendo como entrada la edad y los años que lleva en la compañía.
+
+Algoritmo
+
+Escribir"Ingrese su edad"
+
+Leer edad
+
+Escribir"Ingrese años en la compañia"
+
+Leer Añoscomp
+
+suma=0
+
+pares P=1 hasta Añocomp con paso 1 hacer
+
+Suma=suma+1
+
+Finpara
+
+Escribir Su Sueldo quincenal es de", (100+edad+suma)*2
+
+FinAlgoritmo
 
 # Ejercicio 3. CICLO MIENTRAS
 
@@ -115,7 +141,7 @@ Escribir"Ingresa peso para animal " cont
 
 leer peso
 
-Hasta que peso>1
+Hasta que peso>=1
 
 
 Repetir
