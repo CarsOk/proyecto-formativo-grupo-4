@@ -23,8 +23,14 @@
 |----------|-------------|
 |||
 Soy estudiante de analisis y desarrollo de sistemas de informacion,Soy una persona dinámica y creativa, habituada al trabajo.
-||
-|
-|ESTUDIOS||
+|||
+| _ESTUDIOS_||
 |PRIMARIA|Institucion Educativa Tecnica Juan Jose Nieto|
-|SECUNDARIA|Institucion Educativa Tecnica Juan Jose Nieto|
+|SECUNDARIA|Institucion Educativa Tecnica Juan Jose Nieto
+|
+|_REFERENCIAS FAMILIARES_||
+|Alfredo Antonio Escalante Vanegas |cargo: conductor telefono : 3147733511 |
+|Jaison Alfredo Escalante Orellano|cargo:operador de mixer telefono : 3216687442
+|
+|_REFERENCIAS PERSONALES_||
+|Jassir Arteta Soto|cargo: Auxiliar Contable Telefono: 3005493649|
