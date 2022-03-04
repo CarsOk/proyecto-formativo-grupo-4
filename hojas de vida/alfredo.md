@@ -24,6 +24,7 @@
 |||
 Soy estudiante de analisis y desarrollo de sistemas de informacion,Soy una persona dinámica y creativa, habituada al trabajo.
 |||
+
 | _ESTUDIOS_|
 |
 |PRIMARIA|Institucion Educativa Tecnica Juan Jose Nieto|
