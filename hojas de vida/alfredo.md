@@ -32,7 +32,10 @@ Soy estudiante de analisis y desarrollo de sistemas de informacion,Soy una perso
 |Alfredo Antonio Escalante Vanegas |cargo: conductor telefono : 3147733511 |
 |Jaison Alfredo Escalante Orellano|cargo:operador de mixer telefono : 3216687442
 |
-|***REFERENCIAS PERSONALES***||
-|||
-|Jassir Arteta Soto|cargo: Auxiliar Contable Telefono: 3005493649
+|***REFERENCIAS PERSONALES***|
 |
+|Jassir Arteta|cargo: Auxiliar Contable Telefono: 3005493649|
+||
+|
+    
+
