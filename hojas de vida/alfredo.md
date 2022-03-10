@@ -19,6 +19,7 @@
 |E-MAIL|ajescalante1@misena.edu.co
 |
 
+
 |_PERFIL PROFESIONAL_||
 |----------|-------------|
 
@@ -27,8 +28,7 @@ Soy estudiante de analisis y desarrollo de sistemas de informacion,Soy una perso
 
 | _ESTUDIOS_||
 |------------|-----------|
-|PRIMARIA|Institucion Educativa Tecnica Juan Jose Nieto 
-|
+|PRIMARIA|Institucion Educativa Tecnica Juan Jose Nieto| 
 |SECUNDARIA|Institucion Educativa Tecnica Juan Jose Nieto
 |
 
