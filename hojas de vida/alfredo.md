@@ -1,5 +1,5 @@
 # Hoja de vida
-![imagen]( )
+![imagen](foto/alfredo.jpg)
 
 | _DATOS PERSONALES_ ||
 |----------------------|-----------|
@@ -21,17 +21,19 @@
 
 |_PERFIL PROFESIONAL_||
 |----------|-------------|
-|||
-Soy estudiante de analisis y desarrollo de sistemas de informacion,Soy una persona dinámica y creativa, habituada al trabajo.
-|||
 
-| _ESTUDIOS_|
+Soy estudiante de analisis y desarrollo de sistemas de informacion,Soy una persona dinámica y creativa, habituada al trabajo.
+
+
+| _ESTUDIOS_||
+|------------|-----------|
+|PRIMARIA|Institucion Educativa Tecnica Juan Jose Nieto 
 |
-|PRIMARIA|Institucion Educativa Tecnica Juan Jose Nieto|
 |SECUNDARIA|Institucion Educativa Tecnica Juan Jose Nieto
 |
-|_REFERENCIAS FAMILIARES_||
-|||
+
+|_REFERENCIAS FAMILIARES_| |
+|------------|------------|
 |Alfredo Antonio Escalante Vanegas |cargo: conductor telefono : 3147733511 |
 |Jaison Alfredo Escalante Orellano|cargo:operador de mixer telefono : 3216687442
 |
